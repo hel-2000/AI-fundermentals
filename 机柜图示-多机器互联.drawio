@@ -91,9 +91,6 @@
         <mxCell id="qoCqpINY19ieiWJ2OYOo-23" parent="qoCqpINY19ieiWJ2OYOo-17" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.terminal_40mm2_x10;" value="" vertex="1">
           <mxGeometry height="44.400000000000006" width="188" x="33" y="539" as="geometry" />
         </mxCell>
-        <mxCell id="qoCqpINY19ieiWJ2OYOo-26" parent="1" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl626a_aruba_8325_32c_f2b_front;" value="" vertex="1">
-          <mxGeometry height="15" width="142" x="340" y="540" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
